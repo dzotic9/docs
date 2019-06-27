@@ -209,7 +209,7 @@
     </tr>
     <tr>
         <td id="first-col">
-            <a target="_blank" href="https://github.com/jelastic-jps/mysql-replication">MySQL Cluster</a>
+            <a target="_blank" href="https://github.com/jelastic-jps/mysql-cluster">MySQL Cluster</a>
         </td>
         <td>
             MySQL Cluster with preconfigured Master-Slave replication
