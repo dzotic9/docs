@@ -21,5 +21,3 @@ for i in "${py_dependencies[@]}"
 do
    cd "$i" && python setup.py develop;
 done
-
-#test
