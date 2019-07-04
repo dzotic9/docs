@@ -22,3 +22,4 @@ do
    cd "$i" && python setup.py develop;
 done
 
+#test
